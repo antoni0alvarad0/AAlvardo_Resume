@@ -1,2 +1,2 @@
-# AAlvardo_Resume
+# AAlvarado_Resume
 Junior Web Developer 
