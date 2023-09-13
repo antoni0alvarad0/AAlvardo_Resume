@@ -1,0 +1,100 @@
+/*General page styling*/
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: papayawhip;
+  }
+  
+  main {
+   border: 2px dotted black;
+   background-color: #90ee90; /* Not really feeling the green */
+  }
+  
+  /*This will start styling the right side*/
+  .container1 {
+    width: 20em;
+    background-color: #4a4a4a;
+    color:antiquewhite;
+    border: 2px solid red;
+  }
+  
+  
+  .firstname, .lastname {
+    background-color: #4a4a4a;
+    color: antiquewhite;
+    width: 50%;
+    padding: 0 7px;
+    display: inline-block;
+  }
+  
+  .firstname, .lastname {
+    magin: auto;
+    margin: auto;
+    text-align: left;
+    letter-spacing: 0.50px;
+  }
+  
+  .firstname { 
+    padding-top: 20px;
+  }
+  
+  .lastname {
+    padding-bottom: 50px;
+  }
+  
+  .title {
+    text-align: left;
+    font-style: italic;
+    margin: auto;
+    padding-bottom: 40px;
+  }
+  
+  div .education {
+    margin-bottom: 50px;
+  }
+  
+  
+  
+  
+  /*This will start styling right side*/
+  div.objective {
+    width: 50%;
+    margin-left: 350px;
+    margin-top: -60rem;
+  }
+  
+  .objective {
+    width: 50%;
+    width: 100vh;
+    border: 2px solid black;
+  }
+  
+  ul.no-bullets {
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+  }
+  .container2 {
+    width: 50%;
+    margin: 20px auto;
+    padding: 0 7px;
+    color: black;
+    border: 2px solid blue;
+  }
+  
+  div.container2 {
+    margin-left: 350px;
+    margin-top: 50px;
+    padding: 15px;
+  }
+  
+  .divider {
+    border-bottom: 2px solid #0a0a;
+    margin-bottom: 20px;
+  }
+  
+  
+  
+  
